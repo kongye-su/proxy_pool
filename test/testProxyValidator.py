@@ -22,6 +22,7 @@ def testProxyValidator():
         print(_)
     for _ in ProxyValidator.https_validator:
         print(_)
+    
 
 
 if __name__ == '__main__':
